@@ -1,6 +1,6 @@
 Name     : jdk-plexus-build-api
 Version  : 0.0.7
-Release  : 2
+Release  : 3
 URL      : https://github.com/sonatype/sisu-build-api/archive/plexus-build-api-0.0.7.tar.gz
 Source0  : https://github.com/sonatype/sisu-build-api/archive/plexus-build-api-0.0.7.tar.gz
 Summary  : No detailed summary available
